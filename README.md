@@ -220,4 +220,4 @@ Eudora is available as a full free version, providing all features and updates w
 Take the leap and enhance your email experience today by downloading Eudora! Enjoy a free, fully-featured email client that has stood the test of time.
 
 ---
-**Last updated:** 2026-11-08 11:45:28 UTC
+**Last updated:** 2026-11-08 17:42:50 UTC
